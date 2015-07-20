@@ -3,7 +3,7 @@ module Rails
   def self.gem_version
     Gem::Version.new VERSION::STRING
   end
-
+# module
   module VERSION
     MAJOR = 5
     MINOR = 0
